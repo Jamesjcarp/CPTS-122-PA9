@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/james/Desktop/CPTS-122-PA9-main/Content/maps/whateverIWant.umap",
+				"C:/Users/james/Desktop/CPTS-122-PA9-main/Content/Blueprints/PlayerHUD.uasset",
+				"C:/Users/james/Desktop/CPTS-122-PA9-main/Content/Blueprints/TowerList.uasset",
+				"C:/Users/james/Desktop/CPTS-122-PA9-main/Content/Blueprints/TowerSpawn.uasset",
+				"C:/Users/james/Desktop/CPTS-122-PA9-main/Content/Blueprints/BaseTower_Bp.uasset",
+				"C:/Users/james/Desktop/CPTS-122-PA9-main/Content/Blueprints/enemySpawn.uasset",
+				"C:/Users/james/Desktop/CPTS-122-PA9-main/Content/Blueprints/GameOver_Bp.uasset",
+				"C:/Users/james/Desktop/CPTS-122-PA9-main/Content/Blueprints/Enemy_bp.uasset",
+				"C:/Users/james/Desktop/CPTS-122-PA9-main/Content/Blueprints/grub.uasset",
+				"C:/Users/james/Desktop/CPTS-122-PA9-main/Content/Blueprints/PlayerGameMode.uasset",
+				"C:/Users/james/Desktop/CPTS-122-PA9-main/Content/Blueprints/soldier.uasset",
+				"C:/Users/james/Desktop/CPTS-122-PA9-main/Content/Blueprints/tank.uasset",
+				"C:/Users/james/Desktop/CPTS-122-PA9-main/Content/Blueprints/Tower.uasset",
+				"C:/Users/james/Desktop/CPTS-122-PA9-main/Content/Blueprints/TowerBase.uasset"
+			]
+		}
+	]
+}
