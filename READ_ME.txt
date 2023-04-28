@@ -19,7 +19,7 @@ In order to review our code you'll have to navigate to the "Source" folder and t
 We wrote everything except "ughGameModeBase" which was written by unreal automatically. 
 
 When you download this, make you add all of the following folders into the "Content" folder.
-"Blueprints" "c++ leaderboard" "Collections" "Developers" "EpicLeaderboard" "heathbars" "maps" "Megascans" "MSPresets" "Platforms" "spawner" "texture"
+"Blueprints" "c++ leaderboard" "EpicLeaderboard" "heathbars" "maps" "Megascans" "MSPresets" "Platforms" "spawner" "texture"
 
 Due to issues with github and other such programs, when you open up the file, make sure to build the solution first as the files that are created through building the solution are too big to be sent through things like github or canvas.
 
